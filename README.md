@@ -34,7 +34,6 @@ This project was created to practice JavaScript fundamentals by implementing cal
 
 ![Calculator Screenshot](./preview.png)
 
-> Replace the image above with your own screenshot.
 
 ---
 
@@ -63,14 +62,5 @@ Building this project helped me understand:
 
 ---
 
-## 💡 Future Improvements
-
-* Keyboard support
-* Scientific calculator functions
-* Calculation history
-* Light/Dark mode
-* Better formatting for large numbers
-
----
 
 ⭐ If you liked this project, feel free to star the repository!
