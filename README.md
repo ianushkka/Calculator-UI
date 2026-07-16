@@ -1,27 +1,76 @@
-# Calculator UI
+# 🧮 Calculator
 
-A simple calculator user interface built using HTML and CSS.
+A simple calculator built with **HTML, CSS, and Vanilla JavaScript**.
 
-## 🚀 Features
-
-* Clean layout using Flexbox
-* Interactive hover and click effects
-* Button-based calculator design
-
-## 🛠️ Tech Used
-
-* HTML
-* CSS
-
-## 📌 Project Status
-
-UI completed.
-Functionality (JavaScript) will be added in future.
-
-## 📷 Preview
-
-![Calculator UI](preview.png)
+This project was created to practice JavaScript fundamentals by implementing calculator logic from scratch—without using `eval()`. Along the way, I learned how to manage application state, handle user interactions, and build a responsive interface.
 
 ---
 
-Made for practice and learning frontend development.
+## ✨ Features
+
+* ➕ Addition
+* ➖ Subtraction
+* ✖️ Multiplication
+* ➗ Division
+* 📊 Percentage calculations
+* 🔢 Decimal number support
+* ⌫ Backspace/Delete button
+* 🧹 Clear (`C`) button
+* 🔄 Chained calculations
+* ⚠️ Division-by-zero error handling
+* 🎨 Interactive button hover & click animations
+
+---
+
+## 🛠️ Built With
+
+* HTML5
+* CSS3
+* Vanilla JavaScript
+
+---
+
+## 📸 Preview
+
+![Calculator Screenshot](./preview.png)
+
+> Replace the image above with your own screenshot.
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/<your-username>/calculator.git
+```
+
+Open `index.html` in your browser, and you're ready to use the calculator.
+
+---
+
+## 📚 What I Learned
+
+Building this project helped me understand:
+
+* DOM manipulation
+* Event listeners
+* Managing application state
+* JavaScript functions
+* Error handling
+* Writing cleaner, modular code
+
+---
+
+## 💡 Future Improvements
+
+* Keyboard support
+* Scientific calculator functions
+* Calculation history
+* Light/Dark mode
+* Better formatting for large numbers
+
+---
+
+⭐ If you liked this project, feel free to star the repository!
